@@ -30,3 +30,16 @@ To predict YouBike station availability in real time and help users avoid arrivi
 - Data preprocessing for time-series analysis
 - Constructed graph-based spatial representations of YouBike stations for GNN modeling
 - Deep learning forecasting framework
+
+## Repository Structure
+```text
+youbike-demand-forecasting/
+├── README.md
+├── images/
+│   ├── model_architecture.png
+│   ├── prediction_result.png
+├── src/
+│   ├── data_collection.py
+│   ├── data_processing.py
+│   └── model_training.py
+```
