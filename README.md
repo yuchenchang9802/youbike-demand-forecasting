@@ -26,5 +26,5 @@ To predict YouBike station availability in real time and help users avoid arrivi
 ## Features
 - Automated real-time data collection
 - Data preprocessing for time-series analysis
-- Graph-based spatial representation
+- Constructed graph-based spatial representations of YouBike stations for GNN modeling
 - Deep learning forecasting framework
