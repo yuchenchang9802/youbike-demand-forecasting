@@ -3,6 +3,9 @@
 ## Overview
 This project predicts YouBike station availability using GNN and LSTM models.
 
+## Project Goal
+To predict YouBike station availability in real time and help users avoid arriving at empty stations.
+
 ## The workflow includes:
 - Real-time data collection
 - Time-series preprocessing
@@ -25,6 +28,3 @@ This project predicts YouBike station availability using GNN and LSTM models.
 - Data preprocessing for time-series analysis
 - Graph-based spatial representation
 - Deep learning forecasting framework
-
-## Project Goal
-To predict YouBike station availability in real time and help users avoid arriving at empty stations.
