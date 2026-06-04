@@ -28,3 +28,5 @@ To predict YouBike station availability in real time and help users avoid arrivi
 - Data preprocessing for time-series analysis
 - Constructed graph-based spatial representations of YouBike stations for GNN modeling
 - Deep learning forecasting framework
+
+(This project was supported by Taiwan’s National Science and Technology Council (NSTC) undergraduate research program.)
