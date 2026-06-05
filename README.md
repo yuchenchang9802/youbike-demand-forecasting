@@ -42,4 +42,5 @@ youbike-demand-forecasting/
 │   ├── data_collection.py
 │   ├── data_processing.py
 │   └── model_training.py
+├── .gitignore
 ```
